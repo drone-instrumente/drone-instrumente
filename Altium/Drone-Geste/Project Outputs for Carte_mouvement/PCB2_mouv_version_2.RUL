@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Alison\Desktop\Cours_IUT\PROJET_2019_TO_OLASEK_MEDZOOWONO\Projet 2019\Projets\Gestion\Carte_mouvement\PCB2_mouv_version_2.PcbDoc
+RuleKind=Width|RuleName=piste_normal|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Keep_out|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Isolation_piste|Scope=Board|Minimum=70.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=piste_puissance|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/couleuuuuur"
+    tools:context=".Fragments.FragmentAutre">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:scrollbarSize="50dp">
+
+        <ImageView
+            android:id="@+id/ic_termo"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/clipart2294041"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/ic_hum"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/ic_lum" />
+
+        <ImageView
+            android:id="@+id/ic_sound"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toTopOf="@+id/ic_hum"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/ic_lum"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_sound" />
+
+        <ImageView
+            android:id="@+id/ic_lum"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toTopOf="@+id/ic_termo"
+            app:layout_constraintEnd_toStartOf="@id/ic_sound"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_lum" />
+
+        <ImageView
+            android:id="@+id/ic_hum"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/ic_termo"
+            app:layout_constraintTop_toBottomOf="@id/ic_sound"
+            app:layout_constraintVertical_bias="0.67"
+            app:srcCompat="@drawable/ic_hum" />
+
+        <TextView
+            android:id="@+id/valeurTemprature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Temperature"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="@+id/ic_termo"
+            app:layout_constraintStart_toStartOf="@+id/ic_termo"
+            app:layout_constraintTop_toBottomOf="@+id/ic_termo" />
+
+        <TextView
+            android:id="@+id/valeurHumidite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Humidité"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="@+id/ic_hum"
+            app:layout_constraintStart_toStartOf="@+id/ic_hum"
+            app:layout_constraintTop_toBottomOf="@+id/ic_hum" />
+
+        <TextView
+            android:id="@+id/valeurLumiere"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Lumière"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="@+id/ic_lum"
+            app:layout_constraintStart_toStartOf="@+id/ic_lum"
+            app:layout_constraintTop_toBottomOf="@+id/ic_lum" />
+
+        <TextView
+            android:id="@+id/valeurSon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Son"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="@+id/ic_sound"
+            app:layout_constraintStart_toStartOf="@+id/ic_sound"
+            app:layout_constraintTop_toBottomOf="@+id/ic_sound" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</FrameLayout>

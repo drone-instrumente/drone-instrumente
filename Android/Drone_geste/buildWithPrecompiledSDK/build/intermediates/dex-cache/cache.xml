@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_4c64d575081df710a2f285468b0bd3b55f92b891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARCommands\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a908d77973238860c1089d3c1a1786f57e03197b">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARCommands-3.14.0_bf56a4b8be2d6a16a95a368e0133f182af61f46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARController\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="663158583d9805c73090467767b77b7243be3891">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARController-3.14.0_776ece8bc03ae7b1b526775a2cd412aa5ab74e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARSAL\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="66b13ff41bee82da180171dd01d756a7174ebe72">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARSAL-3.14.0_fbcd1f96368faae3828f3c08a480ff52b40eb093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARNetworkAL\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1f713f6869386ef1c94f0cf44b121340578bab3">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARNetworkAL-3.14.0_302ad428330fcdbaed57f412300534f871f2fd3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARDiscovery\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0fbf7a2930a3a018167773b0e0d272988a110c31">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARDiscovery-3.14.0_2f13c99640ad23497d043681072653e5e829130d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_0697daf8744628460bbc5da7f96eab86fd89a3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARController\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="663158583d9805c73090467767b77b7243be3891">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARController-3.14.0_9f0cf9398655e83a212a6224b9827b404b4b9e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_5c341ef0f9e5c0c8a8fd5b585db6a035776bbc72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_da7679eb9f52795a89fd5784e831a59435d0515e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7921fe5e8c60198ff4640f45c0accaf2ccd9e14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARNetwork\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8151a516dd6430be85606779c344306f5d799929">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARNetwork-3.14.0_7626d51aa3ea31453ae314146ce0df560196cc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_d6f41dd8b0ad3f7255a776b429188cd52170617e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARStream\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17bd95a191d5664ec36e84e54fc62e1e6adb8337">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARStream-3.14.0_a5d5d33001480b5703044b29a599b89b0a393333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libmux\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9c51d1da5b103abb8db7822f01c1643727fb0fe">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libmux-3.14.0_af1fad8770171fe123c752619767f4483ffbfb3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARNetworkAL\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1f713f6869386ef1c94f0cf44b121340578bab3">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARNetworkAL-3.14.0_4f667ef491bc601c94ab5cb2804ae53554fe0cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_48e544a651c0faa9dba7bd2c78a35aa2db992c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_f16a2341c9de7344708e74355c0835bab57fd848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARSAL\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="66b13ff41bee82da180171dd01d756a7174ebe72">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARSAL-3.14.0_dad48dc391fca75c21c5c76c1a94227f15d5f2c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARStream\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17bd95a191d5664ec36e84e54fc62e1e6adb8337">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARStream-3.14.0_29ee1793c82767d7006d5645064e59e19bf2303c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_de5baed422c03bbe6183cade39a8b637511e1e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARMedia\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0266f9f007ad21e9883d8d06632f9f157ee14c41">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARMedia-3.14.0_3dfc26dea74efceb3441d1ba22e75d71619422e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARDiscovery\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0fbf7a2930a3a018167773b0e0d272988a110c31">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARDiscovery-3.14.0_ee0630c1352badf73b86e9085697f834bca0dcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARDataTransfer\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76f54487b7fde0d972a6954ecc39932c87405e27">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARDataTransfer-3.14.0_080da44800c268b33ac13de76ff9bdde3b09abe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARDataTransfer\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76f54487b7fde0d972a6954ecc39932c87405e27">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARDataTransfer-3.14.0_2b1549bec381f37d7aa4ccc4ea5a1b8bf8e4286c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_e60b13bdb98829f856c52c5dfdca9c6e0a7102b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\arsdk\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09d4767bc2e3322541b40fbd2a69bff106be28bf">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-arsdk-3.14.0_2a40a1635dea4070fdbe0b68e4289d08d56fa4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b68824f54cd1c19b11dfe931048e47744fd42b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARStream2\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17be5dfc377458d82eacac0dea2d3301af00fc34">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARStream2-3.14.0_9fdf4e963859c8ef0b6c8ca07e109d6ee833c581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_4a7ad6333ada5a164472bb32e99382944e4493d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARNetwork\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8151a516dd6430be85606779c344306f5d799929">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARNetwork-3.14.0_0d8155c2be4335e4104232dbf7c33b64f3969a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_4023dbb24e16d20956e5e6ff4901451c62e759e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_69d3ed7e3e520c864be630aea4981b3a8f87fa37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARCommands\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a908d77973238860c1089d3c1a1786f57e03197b">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARCommands-3.14.0_112f87fe30d7d385fb47df064149444fbc6c73dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\.gradle\caches\modules-2\files-2.1\org.apache.sanselan\sanselan\0.97-incubator\8396778b076a2eaf62024b64f6d924e4e0095fca\sanselan-0.97-incubator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8396778b076a2eaf62024b64f6d924e4e0095fca">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\sanselan-0.97-incubator_4f929199852ed67ee24bd550db8ce2d591cf68d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\.gradle\caches\modules-2\files-2.1\javax.jmdns\jmdns\3.4.1\7ba2dcf7effb5ca9b00736b2a066fff3dd01d432\jmdns-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\jmdns-3.4.1_1ed43f2311858c2682de0be402780f32f9636d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libmux\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9c51d1da5b103abb8db7822f01c1643727fb0fe">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libmux-3.14.0_93b80d8a74138e23d962ae59094173707f5c48c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARUpdater\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3d1969977655056b95fe7cf1d547e83046b1d">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARUpdater-3.14.0_aed870a9278105d02b9b11dc96029259aa871976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARUtils\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e7aa4964806a6ee90cb78d33be5c9049868e360">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARUtils-3.14.0_7392fe05f441eecf86e793c5092df153b47065bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARMavlink\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b64219c73b5f1b4a35cb4031703005dc289984">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARMavlink-3.14.0_10aa7897a0e1eab961365e141c043f26bc8e80ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_6ff350c21da380cba56882d89ebd808cfb42b7e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_0867940a157cd2c663256863e8c7028c2c2f6174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_d9c388d69ac883a393e6b21633972a500eb3cff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_6a38109e3d6f447a5023b6e963542b5274c92740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bf3c6408b04fb4dfec34d6173617f422c957eac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_4b5bfef8e9f4518df9e972a44f17f7d4ef4f1d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\arsdk\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09d4767bc2e3322541b40fbd2a69bff106be28bf">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-arsdk-3.14.0_720924e3739cde050c5aab8c2f5c0351281d9891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARStream2\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17be5dfc377458d82eacac0dea2d3301af00fc34">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARStream2-3.14.0_be3d37494dd17a09eb5c84f118380b645709eb2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_825e327ecb9fcd1e9f6c1a7358579f548a589fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARUtils\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e7aa4964806a6ee90cb78d33be5c9049868e360">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARUtils-3.14.0_f6b35a214c430a2546a9ce338ab232b43619f84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_2b43953cf2355dfdc8ab24a56369d39511edd74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.parrot\libARUpdater\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3d1969977655056b95fe7cf1d547e83046b1d">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.parrot-libARUpdater-3.14.0_e5f8423ecfd12b27fd9cda53b26d45371726cba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_055ba274dd33fc387888bc60409ce4616adf9b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARMavlink\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b64219c73b5f1b4a35cb4031703005dc289984">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARMavlink-3.14.0_4499041186ee450f61fd00bc2467b9c2219cea7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0d66dcb98be713c730f3d52272e15cf3fb3fe105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.parrot\libARMedia\3.14.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0266f9f007ad21e9883d8d06632f9f157ee14c41">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\com.parrot-libARMedia-3.14.0_950f9940d0997d6cd3348a2c8ce765f7c30c19a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_056ac3af25f11d40392f6d52dc1716cb17c616ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_cc7544d798aade6b9c96089dc349b1e90d5552f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_4b5eaf3ac46aa6006e634f129270a9aa0a98e364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\InnovLab\Desktop\Programme Parrot\Samples-master\Android\SDKSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_67cf0dbeca31b36a484b3449a2e87284e4522de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Parrot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e4975731803809b75b3c0f504904696e37ead1da.jar" />
+    </item>
+
+</items>

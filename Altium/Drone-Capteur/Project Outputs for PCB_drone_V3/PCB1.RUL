@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Alison\Desktop\PCB_drone_V2\PCB1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_plan|Scope=Board|Minimum=43.31
+RuleKind=Width|RuleName=Width_power|Scope=Board|Minimum=39.37

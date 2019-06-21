@@ -1,0 +1,287 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\5a63aaa03a172ed0abe54fd76cf7918f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\1160115dad092bad95ffaab3e75ef040\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0c2caddb0883d07d1c2b2601336843e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\111fdbae602caf77a797189a674b6ccf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6e4e1e95d8e4935cc6a7c8a36e5168dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4463f9c8b7a5a61cdc2d3cf53d4b674d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\49d0d6657de7ddbfb3c090f1b30b4c9f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbca4acb768422a9255d22131e7a7b0f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\dc4398e066dff1f9d4b07df5764c74a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8299b04c35d9ad232b65dbdffe3c6516\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4eb2adff95079d02f5b8be0e3092109e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b88b71f1c13fb00c99bc4efcaca81624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\eeeea4be9753d0ac428aaa87ba6a694e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ca4a3ae1198111308bb46b5150221799\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\25744024bc51f4a6156f88092a0fd30f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf99e1e348efe9ecb216675a75bf516c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0b05146d27288808429c5612787a75f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\481d8386c0549b237e6f185d0ca55733\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\3f4ee7d3e0136090ccebb84d29341e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ef90c0e9ed112a6c817ff4c03f11680f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\05f763e51638b5ebf4ced7f5095a2848\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\13d761d950f649a8c50a84fb0ac0eb30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2e76b22d5595d22cd175d12ac6f68503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\7a5a7db2f67a5fd5ffc8579707fc98e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\674135253f1e82b1bf16b91dcd748033\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbe4623a6efa97a2e4bdb8bfbec5f7b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0bd40164ec3f113539f0feb335f2279e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8593e5eb875229d09cb1bda1adf69a52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b6f2f33391f3dff31ca48c8f3a2cdb6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6b81fb1f624459d92d8502e7c0846177\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\739cd27d3ec0ad4f42b16cbba6cf80f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2aa0769ed18a6ac6c42aa79e0192bf68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\a02c17f3e1eae70ab9acd6cc2c8d1bee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\71e140555a2e992ac30af8a00c3ca8f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\10ea212db4e609ce92e25fb64dc0de11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\828be0965502dc24faab35470a81b2e0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\5a63aaa03a172ed0abe54fd76cf7918f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\5a63aaa03a172ed0abe54fd76cf7918f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:30:5-36:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\1160115dad092bad95ffaab3e75ef040\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\1160115dad092bad95ffaab3e75ef040\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\111fdbae602caf77a797189a674b6ccf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\111fdbae602caf77a797189a674b6ccf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\49d0d6657de7ddbfb3c090f1b30b4c9f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\49d0d6657de7ddbfb3c090f1b30b4c9f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbca4acb768422a9255d22131e7a7b0f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbca4acb768422a9255d22131e7a7b0f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\dc4398e066dff1f9d4b07df5764c74a1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\dc4398e066dff1f9d4b07df5764c74a1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\674135253f1e82b1bf16b91dcd748033\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\674135253f1e82b1bf16b91dcd748033\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:30:9-54
+	android:icon
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:32:9-40
+activity#com.example.criip2.drone.Fragments.MainActivity
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:33:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:43:9-45:71
+	android:value
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml:44:13-58
+uses-sdk
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\5a63aaa03a172ed0abe54fd76cf7918f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\5a63aaa03a172ed0abe54fd76cf7918f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\1160115dad092bad95ffaab3e75ef040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\1160115dad092bad95ffaab3e75ef040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0c2caddb0883d07d1c2b2601336843e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0c2caddb0883d07d1c2b2601336843e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\111fdbae602caf77a797189a674b6ccf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\111fdbae602caf77a797189a674b6ccf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6e4e1e95d8e4935cc6a7c8a36e5168dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6e4e1e95d8e4935cc6a7c8a36e5168dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4463f9c8b7a5a61cdc2d3cf53d4b674d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4463f9c8b7a5a61cdc2d3cf53d4b674d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\49d0d6657de7ddbfb3c090f1b30b4c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\49d0d6657de7ddbfb3c090f1b30b4c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbca4acb768422a9255d22131e7a7b0f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbca4acb768422a9255d22131e7a7b0f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\dc4398e066dff1f9d4b07df5764c74a1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\dc4398e066dff1f9d4b07df5764c74a1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8299b04c35d9ad232b65dbdffe3c6516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8299b04c35d9ad232b65dbdffe3c6516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4eb2adff95079d02f5b8be0e3092109e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\4eb2adff95079d02f5b8be0e3092109e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b88b71f1c13fb00c99bc4efcaca81624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b88b71f1c13fb00c99bc4efcaca81624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\eeeea4be9753d0ac428aaa87ba6a694e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\eeeea4be9753d0ac428aaa87ba6a694e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ca4a3ae1198111308bb46b5150221799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ca4a3ae1198111308bb46b5150221799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\25744024bc51f4a6156f88092a0fd30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\25744024bc51f4a6156f88092a0fd30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf99e1e348efe9ecb216675a75bf516c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf99e1e348efe9ecb216675a75bf516c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0b05146d27288808429c5612787a75f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0b05146d27288808429c5612787a75f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\481d8386c0549b237e6f185d0ca55733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\481d8386c0549b237e6f185d0ca55733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\3f4ee7d3e0136090ccebb84d29341e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\3f4ee7d3e0136090ccebb84d29341e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ef90c0e9ed112a6c817ff4c03f11680f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\ef90c0e9ed112a6c817ff4c03f11680f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\05f763e51638b5ebf4ced7f5095a2848\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\05f763e51638b5ebf4ced7f5095a2848\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\13d761d950f649a8c50a84fb0ac0eb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\13d761d950f649a8c50a84fb0ac0eb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2e76b22d5595d22cd175d12ac6f68503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2e76b22d5595d22cd175d12ac6f68503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\7a5a7db2f67a5fd5ffc8579707fc98e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\7a5a7db2f67a5fd5ffc8579707fc98e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2afb23033f7ac7397a1b3dc3f3d13256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\674135253f1e82b1bf16b91dcd748033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\674135253f1e82b1bf16b91dcd748033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbe4623a6efa97a2e4bdb8bfbec5f7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\cbe4623a6efa97a2e4bdb8bfbec5f7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0bd40164ec3f113539f0feb335f2279e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\0bd40164ec3f113539f0feb335f2279e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8593e5eb875229d09cb1bda1adf69a52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8593e5eb875229d09cb1bda1adf69a52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b6f2f33391f3dff31ca48c8f3a2cdb6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\b6f2f33391f3dff31ca48c8f3a2cdb6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6b81fb1f624459d92d8502e7c0846177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\6b81fb1f624459d92d8502e7c0846177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\739cd27d3ec0ad4f42b16cbba6cf80f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\739cd27d3ec0ad4f42b16cbba6cf80f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2aa0769ed18a6ac6c42aa79e0192bf68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2aa0769ed18a6ac6c42aa79e0192bf68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\a02c17f3e1eae70ab9acd6cc2c8d1bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\a02c17f3e1eae70ab9acd6cc2c8d1bee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\71e140555a2e992ac30af8a00c3ca8f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\71e140555a2e992ac30af8a00c3ca8f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\10ea212db4e609ce92e25fb64dc0de11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\10ea212db4e609ce92e25fb64dc0de11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\828be0965502dc24faab35470a81b2e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\828be0965502dc24faab35470a81b2e0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\InnovLab\Downloads\Home\Projet mecse\Dossier Final\Android\Drone_capteur\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:23:22-79
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\bf294a2d7e7cf3d52f6cc019fd881d5e\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\2c7c1b6bc66254587b25ddf0ec6c16d9\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9ec1b9baa76bd39861233f5977bd82d6\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\9dd8b928b40e00f948dfb033e24eb5d8\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\InnovLab\.gradle\caches\transforms-2\files-2.1\8567ebc3f88458fe5f5f3c3c00718667\AndroidManifest.xml:24:13-58
